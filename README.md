@@ -1,4 +1,4 @@
-# medotcom2016
+# Personal Site
 
 This is my personal site (2016 – present)
 
