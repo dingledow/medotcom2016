@@ -1,8 +1,8 @@
 {
-  "name": "sopost-marketing-site--v4",
-  "version": "1.0.0",
-  "description": "SoPost Marketing Site",
-  "author": "SoPost",
+  "name": "david-ingledow",
+  "version": "3.0.0",
+  "description": "David Ingledow",
+  "author": "David Ingledow",
   "devDependencies": {
     "del": "^2.1.0",
     "gulp": "^3.9.0",
