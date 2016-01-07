@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<style>
+  .nav__blog{
+    color: #da3877;
+    border-bottom: 2px solid #da3877;
+  }
+</style>
+
+{% for post in site.posts %}
+  <div class="blog-index__post">
+    <h2 class="blog-index__title">
+      <a class="blog-index__title__post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <span class="blog-index__date">{{ post.date | date: "%B %Y" }}</span>
+  </div>
+{% endfor %}
+
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

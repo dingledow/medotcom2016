@@ -1,0 +1,28 @@
+.blog-index__post{
+  margin-bottom: 100px;
+}
+
+.blog-index__title{
+  font-size: 2em;
+  margin-bottom: 10px;
+  .blog-index__title__post-link{
+    color: #da3877;
+    text-decoration: none;
+    letter-spacing: -0.1pt;
+    &:hover{
+      color: #ab2056;
+    }
+  }
+}
+
+.blog-index__date{
+  color: #919191;
+}
+
+.post-title{
+  margin-bottom: 10px;
+}
+
+.post-meta{
+  color: #919191;
+}
