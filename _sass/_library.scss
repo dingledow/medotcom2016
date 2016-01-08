@@ -1,0 +1,27 @@
+.library__book-single{
+  margin-bottom: 80px;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.library__book-image__wrapper{
+  padding: 0 20px;
+  text-align: center;
+}
+
+.library__book-image{
+  max-width: 80%;
+  height: auto;
+  box-shadow: 0 1px 15px rgba(0,0,0,0.1);
+}
+
+.library__book-title{
+  margin-top: 10px;
+  font-weight: 600;
+  display: block;
+}
+
+.library__book-author{
+  display: block;
+  color: #878787;
+}

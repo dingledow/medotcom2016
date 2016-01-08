@@ -5,17 +5,25 @@ layout: default
 <style>
   .nav__blog{
     color: #da3877;
-    border-bottom: 2px solid #da3877;
+    border-bottom: 1.5px solid #da3877;
   }
 </style>
 
-{% for post in site.posts %}
-  <div class="blog-index__post">
-    <h2 class="blog-index__title">
-      <a class="blog-index__title__post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <span class="blog-index__date">{{ post.date | date: "%B %Y" }}</span>
+<div class="wrap">
+  <div class="row">
+    <div class="col__lg-4-12 hidden__md hidden__sm">
+      <h1 class="blog-index__page-h1">Blog</h1>
+    </div>
+    <div class="col__lg-8-12 col__md-12-12 col__sm-12-12">
+      {% for post in site.posts %}
+        <div class="blog-index__post">
+          <h2 class="blog-index__title">
+            <a class="blog-index__title__post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <span class="blog-index__date">{{ post.date | date: "%B %Y" }}</span>
+        </div>
+      {% endfor %}
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    </div>
   </div>
-{% endfor %}
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
