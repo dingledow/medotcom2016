@@ -1193,9 +1193,10 @@ nav {
   font-size: .9em; }
 
 .library__book-single {
-  margin-bottom: 80px;
+  margin-bottom: 180px;
   text-align: center;
-  vertical-align: bottom; }
+  vertical-align: bottom;
+  position: relative; }
 
 .library__book-image__wrapper {
   padding: 0 20px;
@@ -1209,8 +1210,16 @@ nav {
 .library__book-title {
   margin-top: 10px;
   font-weight: 600;
-  display: block; }
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0px; }
 
 .library__book-author {
   display: block;
-  color: #878787; }
+  color: #878787;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  left: 0px;
+  font-weight: 300; }
