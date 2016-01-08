@@ -1,6 +1,11 @@
 * {
-  font-family: "franklin-gothic-urw", sans-serif;
+  font-family: "acumin-pro", sans-serif;
   box-sizing: border-box;
+  color: #3c3c3c;
+}
+
+.wf-loading {
+  visibility: hidden;
 }
 
 body{
@@ -9,4 +14,28 @@ body{
 
 code, code * {
   font-family: "Courier New", Courier, monospace !important;
+}
+
+h1{
+  font-weight: 600;
+  font-size: 2.8em;
+  letter-spacing: -0.3pt;
+}
+
+h2{
+  font-weight: 600;
+  font-size: 2em;
+  letter-spacing: -0.3pt;
+}
+
+a{
+  color: #da3877;
+  &:hover{
+    color: #ab2056;
+  }
+}
+
+p{
+  font-size: 1.1em;
+  line-height: 1.65em;
 }
