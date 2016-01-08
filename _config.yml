@@ -9,11 +9,18 @@
 # title: Your awesome title
 # email: your-email@domain.com
 # description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://david.ingledow.co.uk" # the base hostname & protocol for your site
+baseurl: "/medotcom2016" # the subpath of your site, e.g. /blog
+url: "http://dingledow.github.io" # the base hostname & protocol for your site
 # twitter_username: dingledow
 # github_username:  dingledow
 
 # Build settings
 markdown: kramdown
 markdown_ext: "md"
+
+exclude:
+  - ".gitignore"
+  - "README.md"
+
+include:
+  - .nojekyll
