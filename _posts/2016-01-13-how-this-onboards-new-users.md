@@ -3,6 +3,10 @@ layout: post
 title:  "How This. Onboards New Users"
 date:   2016-01-13 19:00:00 +0000
 permalink: blog/:title/
+relPosts:
+- relPostTitle: Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG
+  relPostPermalink: /blog/google-material-designs-animated-loading-spinner-svg-and-css/
+  relPostImg: http://ingledow-2016.s3.amazonaws.com/blog/img/2014/12/5/material-spinner2.gif
 ---
 
 I was really impressed by the thoughts [Andrew Golis](https://twitter.com/agolis) discussed in his blog post ['I drew a bunch of dots to explain why social media is broken'](https://blog.this.cm/i-drew-a-bunch-of-dots-to-explain-why-social-media-is-broken-97725e2f0cc4#.fmvttzfvt).

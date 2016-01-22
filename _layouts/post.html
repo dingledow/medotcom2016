@@ -21,8 +21,27 @@ layout: default
       {{ content }}
     </div>
     <div class="col__12-12 blog__footer">
-      <a href="https://twitter.com/share" class="twitter-share-button"{count} data-text="{{ page.title }}" data-via="dingledow" data-size="large" data-dnt="true">Tweet</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <div class="row">
+        <div class="col__lg-4-12">
+          <h2>Share</h2>
+          <a href="https://twitter.com/share" class="twitter-share-button"{count} data-text="{{ page.title }}" data-via="dingledow" data-size="large" data-dnt="true">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="col__lg-8-12">
+          <h2>Read More</h2>
+          {% for relPost in page.relPosts %}
+            <a href="{{ relPost.relPostPermalink }}" class="blog__footer__related__wrapper">
+              <div class="blog__footer__related">
+                <img src="{{ relPost.relPostImg }}" alt="google material design spinner html css svg" class="blog__footer__related__img"/>
+                <div class="blog__footer__related__bg"></div>
+                <div class="blog__footer__related__title">
+                  <span>{{ relPost.relPostTitle }}</span>
+                </div>
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
 </div>
