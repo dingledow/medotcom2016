@@ -151,12 +151,10 @@ figure.highlight{
   pre{
     position: relative;
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
     padding: 10px 20px;
     border: 1px solid #eeeeee;
     background-color: #fcfcfc;
     border-radius: 4px;
-    code{
-      // position: absolute;
-    }
   }
 }
