@@ -3,6 +3,10 @@ layout: post
 title:  "Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG"
 date:   2014-12-05 21:29:00 +0000
 permalink: blog/google-material-designs-animated-loading-spinner-svg-and-css/
+relPosts:
+- relPostTitle: How This. Onboards New Users
+  relPostPermalink: /blog/how-this-onboards-new-users/
+  relPostImg: https://cdn-images-1.medium.com/max/1200/1*uoR9Ecsh-_y0Na9KI_XNLg.png
 ---
 
 At [SoPost](https://www.sopost.com/), we've been inspired by some of the principles put forward in Google's Material Design. One element that we thought could be really useful as a feedback mechanism in our user journey was the loading spinner. Creating it in HTML, CSS and SVG allows us to change the colour to fit in with the brand on a per campaign basis.

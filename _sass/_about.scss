@@ -3,6 +3,10 @@
   font-size: 3.2em;
   margin-top: 0;
   line-height: 1.2em;
+  @media screen and (max-width: 375px){
+    font-size: 2em;
+    letter-spacing: 0;
+  }
 }
 
 .home__strapline{

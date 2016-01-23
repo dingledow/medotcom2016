@@ -16,6 +16,9 @@ nav{
   width: 100%;
   display: block;
   margin: 10vh auto;
+  @media screen and (max-width: 375px){
+    padding: 0 10px 20px;
+  }
 }
 
 .home__header-image{
