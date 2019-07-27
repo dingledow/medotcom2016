@@ -10,7 +10,7 @@
 # email: your-email@domain.com
 # description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://david.ingledow.co.uk" # the base hostname & protocol for your site
+url: "https://david.ingledow.co.uk" # the base hostname & protocol for your site
 # twitter_username: dingledow
 # github_username:  dingledow
 

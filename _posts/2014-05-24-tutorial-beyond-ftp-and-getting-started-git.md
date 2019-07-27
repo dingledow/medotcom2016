@@ -36,14 +36,14 @@ All you need for this tutorial is a terminal and a text editor, but I couldn't r
 The first step is to head over to http://git-scm.com/downloads. Download Git for your operating system and following the installation instructions.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg">
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg">
 </div>
 
 To check that Git has installed successfully, open the application 'Terminal'. Or if you've been particularly awesome and installed iTerm2, open that instead. If this is your first time in the terminal, don't panic! Mac OS X is built on Unix and is very similar to Linux for what we need. As a result, the Mac operating system is really just a bunch of directories and files – all you have to do is make sure you don't delete the important ones!
 
 When you open your terminal program, in this case iTerm 2, you'll see a screen like this:
 
-![](http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png)
+![](https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png)
 
 Just to give a bit of context, the line that our cursor is at shows what directory we're in. The `~` is the root directory for the user of this computer and assuming it isn't a shared machine, it'll be your root directory. Just for fun, if you type in `ls`, you'll see all the folders in your Mac's Home directory.
 
@@ -55,7 +55,7 @@ git --version
 
 Press `Enter`. On the line below, the version of Git that you installed will be displayed. You can see that I'm a little bit behind the latest version release:
 
-![](http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png)
+![](https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png)
 
 If you got this far, you've successfully installed Git!
 
@@ -64,7 +64,7 @@ If you got this far, you've successfully installed Git!
 Now we've got Git installed, we can sign up for an account on GitHub. There's a great big call to action in the header, so just follow the necessary steps to setup an account.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg">
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg">
 </div>
 
 Up until now, all we've really done is install a few things and setup an account with GitHub. In the next few steps, we'll put together a web page and share the code to GitHub.
@@ -74,7 +74,7 @@ Up until now, all we've really done is install a few things and setup an account
 Say we wanted to create a new website, we first need to create a Repository (or Repo) on GitHub. I'm going to call this website the most generic name for a tutorial: "Hello World".
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg">
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg">
 </div>
 
 As shown above, give the repo a name and even a description if you want. Let's make it public, so we don't have to pay to play around with it. Also, let's leave all the other options as they are for the time being.
@@ -82,7 +82,7 @@ As shown above, give the repo a name and even a description if you want. Let's m
 Click 'Create repository'.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg">
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg">
 </div>
 
 So we've created a repo. This will be where we store all the code for the Hello World website.

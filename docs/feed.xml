@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://david.ingledow.co.uk/</link>
-    <atom:link href="http://david.ingledow.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jul 2019 12:47:44 +0100</pubDate>
-    <lastBuildDate>Sat, 27 Jul 2019 12:47:44 +0100</lastBuildDate>
+    <link>https://david.ingledow.co.uk/</link>
+    <atom:link href="https://david.ingledow.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jul 2019 12:54:41 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2019 12:54:41 +0100</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -28,7 +28,7 @@
 &lt;p&gt;Since I found This. to be such a refreshing take on consuming content on the web, I thought I would do a teardown of the onboarding process. This is inspired by &lt;a href=&quot;http://www.useronboard.com&quot;&gt;useronboard.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/1.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/1.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -43,7 +43,7 @@
 &lt;p&gt;Anyways, I happened to have come from the blog post, lets get started!&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/2.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/2.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -54,7 +54,7 @@
 &lt;p&gt;I’m a supporter of Joel Califa’s &lt;a href=&quot;http://joelcalifa.com/blog/patronizing-passwords/&quot;&gt;Password Security Guide design pattern&lt;/a&gt;, which aims to educate users on using strong passwords, rather than enforcing overly strict password rules on users.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/3.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/3.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -63,7 +63,7 @@
 &lt;p&gt;Nice value proposition for connecting my Twitter account. Although, would be nice to make the ‘No thanks, I don’t want to connect to Twitter’ option look a bit more clickable – perhaps an underline?&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/4.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/4.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -72,7 +72,7 @@
 &lt;p&gt;Very good to see that This. are not asking for all permissions under the sun, just the ones necessary to validate your account and see your followers.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/5.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/5.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -81,7 +81,7 @@
 &lt;p&gt;Beam me up, Scotty!&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/6.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/6.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -96,7 +96,7 @@
 &lt;p&gt;Also, tried clicking the three dots which are normally interactive and indicate a carousel. This isn’t the design pattern here. The three dots show what stage of the onboarding process we’re at. This would be a lot less confusing if it was more clearly a progress indicator.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/7.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/7.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -105,7 +105,7 @@
 &lt;p&gt;I decided to follow them all. Let’s continue!&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/8.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/8.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -114,7 +114,7 @@
 &lt;p&gt;Great value proposition again. Lets see who else we can follow.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/9.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/9.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -123,7 +123,7 @@
 &lt;p&gt;Uh oh!  Looks like this page doesn’t have any more content when I scroll even though I can see the top of the next user in the list.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/10.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/10.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -134,7 +134,7 @@
 &lt;p&gt;Downside, this page has the same issue as step nine – the content is missing when I scroll.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/11.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/11.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -145,7 +145,7 @@
 &lt;p&gt;Not sure why I need to upload an avatar or enter my Twitter username when I’ve already used Twitter to authenticate and sign up. This. should already be able access this information.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/12.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/12.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -154,7 +154,7 @@
 &lt;p&gt;Uploaded and added the information manually.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/13.jpg
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/13.jpg
 &quot; /&gt;
 &lt;/div&gt;
 
@@ -165,8 +165,8 @@
 &lt;h3&gt;&lt;a href=&quot;https://this.cm/dingledow&quot;&gt;Follow me on This.&lt;/a&gt;&lt;/h3&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 19:00:00 +0000</pubDate>
-        <link>http://david.ingledow.co.uk/blog/how-this-onboards-new-users/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/how-this-onboards-new-users/</guid>
+        <link>https://david.ingledow.co.uk/blog/how-this-onboards-new-users/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/how-this-onboards-new-users/</guid>
         
         
       </item>
@@ -269,8 +269,8 @@
 
 </description>
         <pubDate>Fri, 05 Dec 2014 21:29:00 +0000</pubDate>
-        <link>http://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</guid>
+        <link>https://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</guid>
         
         
       </item>
@@ -311,8 +311,8 @@
 &lt;p&gt;TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: &lt;code class=&quot;highlighter-rouge&quot;&gt;My\ Personal\ Site/&lt;/code&gt; which is a bit messy.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Jul 2014 22:29:00 +0100</pubDate>
-        <link>http://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</guid>
+        <link>https://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</guid>
         
         
       </item>
@@ -320,80 +320,80 @@
       <item>
         <title>A Trip to London</title>
         <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6419.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6419.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6420.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6420.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6422.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6422.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6439.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6439.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6440.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6440.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6444.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6444.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6449.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6449.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6450.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6450.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6456.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6456.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6464.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6464.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6465.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6465.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6467.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6467.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6468.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6468.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6469.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6469.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6471.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6471.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6474.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6474.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6478.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6478.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6479.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6479.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6482.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6482.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6485.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6485.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6487.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6487.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6491.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6491.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6493.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6493.jpg&quot; /&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 30 May 2014 22:29:00 +0100</pubDate>
-        <link>http://david.ingledow.co.uk/blog/trip-london/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/trip-london/</guid>
+        <link>https://david.ingledow.co.uk/blog/trip-london/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/trip-london/</guid>
         
         
       </item>
@@ -401,7 +401,7 @@
       <item>
         <title>Reading Material of a Designer</title>
         <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/29/books-organised.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/29/books-organised.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;I finally got round to building some Ikea storage and decided that it would be the new home for all my books. Now they’re out of their moving boxes, I can finally start to look through them again.&lt;/p&gt;
@@ -409,8 +409,8 @@
 &lt;p&gt;Take a look at &lt;a href=&quot;/library/&quot;&gt;my library&lt;/a&gt; to see my favourite reads.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 May 2014 22:29:00 +0100</pubDate>
-        <link>http://david.ingledow.co.uk/blog/reading-material-designer/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/reading-material-designer/</guid>
+        <link>https://david.ingledow.co.uk/blog/reading-material-designer/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/reading-material-designer/</guid>
         
         
       </item>
@@ -450,14 +450,14 @@
 &lt;p&gt;The first step is to head over to http://git-scm.com/downloads. Download Git for your operating system and following the installation instructions.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;To check that Git has installed successfully, open the application ‘Terminal’. Or if you’ve been particularly awesome and installed iTerm2, open that instead. If this is your first time in the terminal, don’t panic! Mac OS X is built on Unix and is very similar to Linux for what we need. As a result, the Mac operating system is really just a bunch of directories and files – all you have to do is make sure you don’t delete the important ones!&lt;/p&gt;
 
 &lt;p&gt;When you open your terminal program, in this case iTerm 2, you’ll see a screen like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt; is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt;, you’ll see all the folders in your Mac’s Home directory.&lt;/p&gt;
 
@@ -468,7 +468,7 @@
 
 &lt;p&gt;Press &lt;code class=&quot;highlighter-rouge&quot;&gt;Enter&lt;/code&gt;. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;If you got this far, you’ve successfully installed Git!&lt;/p&gt;
 
@@ -477,7 +477,7 @@
 &lt;p&gt;Now we’ve got Git installed, we can sign up for an account on GitHub. There’s a great big call to action in the header, so just follow the necessary steps to setup an account.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Up until now, all we’ve really done is install a few things and setup an account with GitHub. In the next few steps, we’ll put together a web page and share the code to GitHub.&lt;/p&gt;
@@ -487,7 +487,7 @@
 &lt;p&gt;Say we wanted to create a new website, we first need to create a Repository (or Repo) on GitHub. I’m going to call this website the most generic name for a tutorial: “Hello World”.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;As shown above, give the repo a name and even a description if you want. Let’s make it public, so we don’t have to pay to play around with it. Also, let’s leave all the other options as they are for the time being.&lt;/p&gt;
@@ -495,7 +495,7 @@
 &lt;p&gt;Click ‘Create repository’.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;So we’ve created a repo. This will be where we store all the code for the Hello World website.&lt;/p&gt;
@@ -598,8 +598,8 @@ The key fingerprint is:
 &lt;p&gt;It will say that you’ve cloned an empty repository, but you’ll still find a directory called “Hello-World” in your Sites directory.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 May 2014 22:29:00 +0100</pubDate>
-        <link>http://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</guid>
+        <link>https://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</guid>
         
         
       </item>
@@ -607,7 +607,7 @@ The key fingerprint is:
       <item>
         <title>Apple's Leather iPhone Case</title>
         <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6517.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6517.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s been a while since I bought my iPhone 5, and in the beginning, I was slightly frustrated with the marks that formed on the chamfer edges – even while being super careful.&lt;/p&gt;
@@ -617,35 +617,35 @@ The key fingerprint is:
 &lt;p&gt;Now, I was in two minds whether to write this blog post. It seems rather pointless to spend my time esentially promoting the big ‘A’, but if nothing else, it’s an exercise in practicing my skills in documenting and communicating my blog posts with words and images. So, here ya go…&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6525.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6525.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6518.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6518.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6520.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6520.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6523.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6523.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The infused dye passes through the whole leather, making the inside suede colour complement the leather. The suede inside is soft and makes it fairly cushioned for the phone.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6511.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6511.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6514.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6514.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The cutouts for the heaphone jack, dock connector, speaker and microphone are made with nanometre precision. It’s also worth mentioning that this precision means that this case really grips – it’s even really quite tricky to get the phone out! Personally, I’m glad; this is exactly what you want from a case.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6527.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6527.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The subtle branding on the reverse of the case is beautifully simple.&lt;/p&gt;
@@ -653,8 +653,8 @@ The key fingerprint is:
 &lt;p&gt;I can’t recommend the case enough – it’s tough, slim and beautifully simple. They come in various colours, but for me the brown version contrasts really well with the blue tinge of the slate.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Mar 2014 21:29:00 +0000</pubDate>
-        <link>http://david.ingledow.co.uk/blog/apples-leather-iphone-case/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/apples-leather-iphone-case/</guid>
+        <link>https://david.ingledow.co.uk/blog/apples-leather-iphone-case/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/apples-leather-iphone-case/</guid>
         
         
       </item>
@@ -672,8 +672,8 @@ The key fingerprint is:
 &lt;p&gt;Since using Git and GitHub at SoPost, I’ve been using it for my own portfolio and this shiny new blog. I’m loving it! It’s allowing me to change my process to be more iterative. I can work on several features and improvements at the same time, on different branches, allowing me to do bits as and when I want. Using Git also pushes me to run a local version of my site so I can properly test everything without the rush of pushing it online.&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Feb 2014 21:29:00 +0000</pubDate>
-        <link>http://david.ingledow.co.uk/blog/git-awesome-design-tool/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/git-awesome-design-tool/</guid>
+        <link>https://david.ingledow.co.uk/blog/git-awesome-design-tool/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/git-awesome-design-tool/</guid>
         
         
       </item>
@@ -685,7 +685,7 @@ The key fingerprint is:
 &lt;p&gt;However, discussing the best trainers or bag on display is not my aim here. For me, the store brought up questions of brand experience and the affects of this on the high street.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-shop.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-shop.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The government expects high street sales to contract to 40% of all retail spending by 2014 (&lt;a href=&quot;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6292/2081646.pdf&quot;&gt;The Portas Review&lt;/a&gt;). This trend towards internet shopping certainly has it’s advantages, but with my recent research into urban design, the regeneration of the high street also needs to be considered on a micro level. So, as well as creating an urban design for improving the street level experience, we should consider the types of retail and commercial outlets that are appropriate for the local area and the experience within each individual outlet.&lt;/p&gt;
@@ -694,9 +694,9 @@ The key fingerprint is:
 
 &lt;p&gt;Given that the high street is within the realms of the physical world, the interaction with the product is immediate and tangible. However, the design of the Puma Social Club does not just benefit from the physical products on display, it is the retail experience that surrounds the products that produce this part of the brand experience.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-hot-chocolate.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-hot-chocolate.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-photos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-photos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Allowing visitors to discuss the products in the café area gets people interested. Hey, they even make a few bob from the drink sales as well! Staff are welcoming and knowledgeable. Polaroid shots are posted on a noticeboard. There is a sense of community. I found this experience really satisfying and engaging. This is not to say that customer service on the high street in the UK is bad, in fact, I even used to be a Customer Service Assistant myself back in the day. I just found that giving consumers areas to discuss the products, as well as creating a community around a local store gives consumers a reason to visit the physical store, rather than the online version.&lt;/p&gt;
 
@@ -705,28 +705,28 @@ The key fingerprint is:
 &lt;p&gt;By no means is this solution perfect, and it is certainly easier said than done given the huge amount of factors involved and the assumptions I’ve made, but the solution has to be appropriated for the brand – every brand has different aims, objectives and visual identities. It is also important to consider that this solution is one of many. The same idea cannot be propagated across every high street. The solution has to be appropriate to local context: people, affluence, geographical location, etc. of which I will revisit in future blog posts.&lt;/p&gt;
 </description>
         <pubDate>Thu, 07 Feb 2013 21:29:00 +0000</pubDate>
-        <link>http://david.ingledow.co.uk/blog/puma-social-club/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/puma-social-club/</guid>
+        <link>https://david.ingledow.co.uk/blog/puma-social-club/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/puma-social-club/</guid>
         
         
       </item>
     
       <item>
         <title>The Canniest Degree Show on Earth</title>
-        <description>&lt;p&gt;Every year, the Northumbria School of Design exhibit students’ work at the &lt;a href=&quot;http://www.northumbria.ac.uk/sd/academic/scd/whatson/news/reveal2012&quot;&gt;REVEAL show&lt;/a&gt;. It is a chance for the public, but more importantly, potential employers to view graduate’s final work for the year. They also exhibit the work at the &lt;a href=&quot;http://www.dandad.org/awards/new-blood&quot;&gt;D&amp;amp;AD ‘New Blood’&lt;/a&gt; show in London, which is held in the Old Spitalfields Market.&lt;/p&gt;
+        <description>&lt;p&gt;Every year, the Northumbria School of Design exhibit students’ work at the &lt;a href=&quot;http://www.northumbria.ac.uk/sd/academic/scd/whatson/news/reveal2012&quot;&gt;REVEAL show&lt;/a&gt;. It is a chance for the public, but more importantly, potential employers to view graduate’s final work for the year. They also exhibit the work at the &lt;a href=&quot;https://www.dandad.org/awards/new-blood&quot;&gt;D&amp;amp;AD ‘New Blood’&lt;/a&gt; show in London, which is held in the Old Spitalfields Market.&lt;/p&gt;
 
 &lt;p&gt;Given that this is one of the best chances that graduates of Northumbria’s School of Design get to show off their work, it is obviously really important to make an impact. That is what the Graphic Design year group of 2012 have certainly done!&lt;/p&gt;
 
 &lt;p&gt;They really wanted to show their work off to prospective employers, so they focussed on the word ‘show’ and developed their own circus brand for the exhibition. However, since D&amp;amp;AD New Blood exhibits work from all over the country, they needed something to strengthen their identity and make themselves memorable. This led to their final brand being heavily influenced by the thing that has all influenced their lives in Newcastle – the Geordie dialect.&lt;/p&gt;
 
 &lt;div class=&quot;blog__img--lg&quot;&gt;
-  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2012/circus-people.jpg&quot; /&gt;
+  &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2012/circus-people.jpg&quot; /&gt;
   &lt;span class=&quot;blog__img--lg__caption&quot;&gt;Image courtesy of &lt;a href=&quot;https://twitter.com/itsallcraig&quot;&gt;Craig Hellings&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 28 Jun 2012 22:29:00 +0100</pubDate>
-        <link>http://david.ingledow.co.uk/blog/canniest-degree-show-earth/</link>
-        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/canniest-degree-show-earth/</guid>
+        <link>https://david.ingledow.co.uk/blog/canniest-degree-show-earth/</link>
+        <guid isPermaLink="true">https://david.ingledow.co.uk/blog/canniest-degree-show-earth/</guid>
         
         
       </item>
