@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://use.typekit.net/ilo0oai.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link rel='shortcut icon' type='image/x-icon' href='http://ingledow-2016.s3.amazonaws.com/public/img/favicon.ico' />
+
+  <title>David Ingledow – Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG</title>
+  <meta name="description" content="At SoPost, we’ve been inspired by some of the principles put forward in Google’s Material Design. One element that we thought could be really useful as a fee...">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://david.ingledow.co.uk/feed.xml">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37251060-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '589690484520254'); 
+  fbq('track', 'PageView');
+  </script>
+  <noscript>
+   <img height="1" width="1" 
+  src="https://www.facebook.com/tr?id=589690484520254&ev=PageView
+  &noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+
+
+  <body>
+
+    <nav>
+  <a class="nav__about" href="/">About</a>
+  <a class="nav__blog" href="/blog/">Blog</a>
+  <a class="nav__library" href="/library/">Library</a>
+</nav>
+
+    <div class="content-wrapper">
+      <style>
+  .nav__blog{
+    color: #da3877;
+    border-bottom: 1.5px solid #da3877;
+  }
+</style>
+
+<div class="wrap">
+  <div class="row">
+    <div class="col__lg-9-12 col__md-12-12 col__sm-12-12">
+      <h1 class="blog-index__page-h1">Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG</h1>
+      <span class="blog-index__date">5 December 2014</span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col__lg-8-12 offset__lg-4-12 col__md-12-12 col__sm-12-12 blog__content">
+      <p>At <a href="https://www.sopost.com/">SoPost</a>, we’ve been inspired by some of the principles put forward in Google’s Material Design. One element that we thought could be really useful as a feedback mechanism in our user journey was the loading spinner. Creating it in HTML, CSS and SVG allows us to change the colour to fit in with the brand on a per campaign basis.</p>
+
+<p>I have recently stumbled upon <a href="http://codepen.io/jczimm/">jczimm’s version</a> built purely in HTML, CSS and SVG.</p>
+
+<p>I’m going to break down exactly how this works in a future update to this post, but for now, here’s the code for a Material Design spinner:</p>
+
+<p>##Demo</p>
+
+<p data-height="190" data-theme-id="10772" data-slug-hash="vEBpoL" data-default-tab="result" data-user="jczimm" class="codepen">See the Pen <a href="http://codepen.io/jczimm/pen/vEBpoL/">Modern Google Loader in Pure CSS</a> by jczimm (<a href="http://codepen.io/jczimm">@jczimm</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<script async="" src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+<p>##HTML with inline SVG</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">&lt;</span><span class="n">div</span> <span class="k">class</span><span class="o">=</span><span class="s2">"loader"</span><span class="o">&gt;</span>
+  <span class="o">&lt;</span><span class="n">svg</span> <span class="k">class</span><span class="o">=</span><span class="s2">"circular"</span><span class="o">&gt;</span>
+    <span class="o">&lt;</span><span class="n">circle</span> <span class="k">class</span><span class="o">=</span><span class="s2">"path"</span> <span class="n">cx</span><span class="o">=</span><span class="s2">"50"</span> <span class="n">cy</span><span class="o">=</span><span class="s2">"50"</span> <span class="n">r</span><span class="o">=</span><span class="s2">"20"</span> <span class="n">fill</span><span class="o">=</span><span class="s2">"none"</span> <span class="n">stroke</span><span class="o">-</span><span class="n">width</span><span class="o">=</span><span class="s2">"2"</span> <span class="n">stroke</span><span class="o">-</span><span class="n">miterlimit</span><span class="o">=</span><span class="s2">"10"</span><span class="o">/&gt;</span>
+  <span class="o">&lt;</span><span class="sr">/svg&gt;
+&lt;/</span><span class="n">div</span><span class="o">&gt;</span></code></pre></figure>
+
+<p>##SCSS</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="vg">$green</span><span class="p">:</span> <span class="c1">#008744;</span>
+<span class="vg">$blue</span><span class="p">:</span> <span class="c1">#0057e7;</span>
+<span class="vg">$red</span><span class="p">:</span> <span class="c1">#d62d20;</span>
+<span class="vg">$yellow</span><span class="p">:</span> <span class="c1">#ffa700;</span>
+<span class="vg">$white</span><span class="p">:</span> <span class="c1">#eee;</span>
+
+<span class="vg">$width</span><span class="p">:</span> <span class="mi">100</span><span class="n">px</span><span class="p">;</span>
+
+<span class="n">body</span> <span class="p">{</span>
+  <span class="n">background</span><span class="o">-</span><span class="ss">color: </span><span class="vg">$white</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nf">loader</span> <span class="p">{</span>
+  <span class="ss">position: </span><span class="n">absolute</span><span class="p">;</span>
+  <span class="ss">width: </span><span class="vg">$width</span><span class="p">;</span>
+  <span class="ss">height: </span><span class="vg">$width</span><span class="p">;</span>
+  <span class="ss">left: </span><span class="mi">50</span><span class="o">%</span><span class="p">;</span>
+
+  <span class="ss">top: </span><span class="mi">20</span><span class="o">%</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="p">.</span><span class="nf">circular</span><span class="p">{</span>
+ <span class="ss">animation: </span><span class="n">rotate</span> <span class="mi">2</span><span class="n">s</span> <span class="n">linear</span> <span class="n">infinite</span><span class="p">;</span>
+ <span class="ss">height: </span><span class="vg">$width</span><span class="p">;</span>
+ <span class="ss">position: </span><span class="n">relative</span><span class="p">;</span>
+ <span class="ss">width: </span><span class="vg">$width</span><span class="p">;</span>
+<span class="p">}</span>
+
+
+<span class="p">.</span><span class="nf">path</span> <span class="p">{</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dasharray: </span><span class="mi">1</span><span class="p">,</span><span class="mi">200</span><span class="p">;</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dashoffset: </span><span class="mi">0</span><span class="p">;</span>
+  <span class="ss">animation:
+   </span><span class="n">dash</span> <span class="mf">1.5</span><span class="n">s</span> <span class="n">ease</span><span class="o">-</span><span class="k">in</span><span class="o">-</span><span class="n">out</span> <span class="n">infinite</span><span class="p">,</span>
+   <span class="n">color</span> <span class="mi">6</span><span class="n">s</span> <span class="n">ease</span><span class="o">-</span><span class="k">in</span><span class="o">-</span><span class="n">out</span> <span class="n">infinite</span>
+  <span class="p">;</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">linecap: </span><span class="n">round</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="vi">@keyframes</span> <span class="n">rotate</span><span class="p">{</span>
+ <span class="mi">100</span><span class="o">%</span><span class="p">{</span>
+  <span class="ss">transform: </span><span class="n">rotate</span><span class="p">(</span><span class="mi">360</span><span class="n">deg</span><span class="p">);</span>
+ <span class="p">}</span>
+<span class="p">}</span>
+<span class="vi">@keyframes</span> <span class="n">dash</span><span class="p">{</span>
+ <span class="mi">0</span><span class="o">%</span><span class="p">{</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dasharray: </span><span class="mi">1</span><span class="p">,</span><span class="mi">200</span><span class="p">;</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dashoffset: </span><span class="mi">0</span><span class="p">;</span>
+ <span class="p">}</span>
+ <span class="mi">50</span><span class="o">%</span><span class="p">{</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dasharray: </span><span class="mi">89</span><span class="p">,</span><span class="mi">200</span><span class="p">;</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dashoffset: </span><span class="o">-</span><span class="mi">35</span><span class="p">;</span>
+ <span class="p">}</span>
+ <span class="mi">100</span><span class="o">%</span><span class="p">{</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dasharray: </span><span class="mi">89</span><span class="p">,</span><span class="mi">200</span><span class="p">;</span>
+  <span class="n">stroke</span><span class="o">-</span><span class="ss">dashoffset: </span><span class="o">-</span><span class="mi">124</span><span class="p">;</span>
+ <span class="p">}</span>
+<span class="p">}</span>
+<span class="vi">@keyframes</span> <span class="n">color</span><span class="p">{</span>
+  <span class="mi">100</span><span class="o">%</span><span class="p">,</span> <span class="mi">0</span><span class="o">%</span><span class="p">{</span>
+    <span class="ss">stroke: </span><span class="vg">$red</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="mi">40</span><span class="o">%</span><span class="p">{</span>
+    <span class="ss">stroke: </span><span class="vg">$blue</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="mi">66</span><span class="o">%</span><span class="p">{</span>
+    <span class="ss">stroke: </span><span class="vg">$green</span><span class="p">;</span>
+  <span class="p">}</span>
+  <span class="mi">80</span><span class="o">%</span><span class="p">,</span> <span class="mi">90</span><span class="o">%</span><span class="p">{</span>
+    <span class="ss">stroke: </span><span class="vg">$yellow</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span></code></pre></figure>
+
+
+    </div>
+    <div class="col__12-12 blog__footer">
+      <div class="row">
+        <div class="col__lg-4-12">
+          <h2>Share</h2>
+          <a href="https://twitter.com/share" class="twitter-share-button"{count} data-text="Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG" data-via="dingledow" data-size="large" data-dnt="true">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="col__lg-8-12">
+          <h2>Read More</h2>
+          
+            <a href="/blog/how-this-onboards-new-users/" class="blog__footer__related__wrapper">
+              <div class="blog__footer__related">
+                <img src="https://cdn-images-1.medium.com/max/1200/1*uoR9Ecsh-_y0Na9KI_XNLg.png" alt="google material design spinner html css svg" class="blog__footer__related__img"/>
+                <div class="blog__footer__related__bg"></div>
+                <div class="blog__footer__related__title">
+                  <span>How This. Onboards New Users</span>
+                </div>
+              </div>
+            </a>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <footer>
+
+</footer>
+
+
+  </body>
+
+</html>

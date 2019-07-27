@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://david.ingledow.co.uk/</link>
+    <atom:link href="http://david.ingledow.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jul 2019 12:47:44 +0100</pubDate>
+    <lastBuildDate>Sat, 27 Jul 2019 12:47:44 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>How This. Onboards New Users</title>
+        <description>&lt;p&gt;I was really impressed by the thoughts &lt;a href=&quot;https://twitter.com/agolis&quot;&gt;Andrew Golis&lt;/a&gt; discussed in his blog post &lt;a href=&quot;https://blog.this.cm/i-drew-a-bunch-of-dots-to-explain-why-social-media-is-broken-97725e2f0cc4#.fmvttzfvt&quot;&gt;‘I drew a bunch of dots to explain why social media is broken’&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Andrew explains how the strategy that many media companies take to promote content on social media are leaving our news feeds homogenous, as well as a little less human. This leaves the content that we consume everyday not as inspiring as it could be.&lt;/p&gt;
+
+&lt;p&gt;These problems are attempting to be solved by ‘&lt;a href=&quot;https://this.cm/join&quot;&gt;This.&lt;/a&gt;’, of which Andrew is the founder and CEO.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This. lets users follow publishers (people and companies) you trust, sharing stuff they recommend and/or made. But every member is limited to sharing just 1 link a day.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That 1 share limit doesn’t just stop this arms race before it starts. It turns every publisher’s share into something even more valuable: a statement of passion. When the publishers you trust make their pick, they’re telling you: “This is what’s worth your time today.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since I found This. to be such a refreshing take on consuming content on the web, I thought I would do a teardown of the onboarding process. This is inspired by &lt;a href=&quot;http://www.useronboard.com&quot;&gt;useronboard.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/1.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;onethirteen&quot;&gt;One/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Nice idea to be able to see a glimpse of the final interface to give the user context as they’re signing up.  However, the onboarding windows appears to be part of the main UI – perhaps, dare I say, a drop shadow to add visual depth and contrast would help suggest that the onboarding window is temporary?&lt;/p&gt;
+
+&lt;p&gt;It would also be nice to see some example posts in the UI underneath to give the user even more context.&lt;/p&gt;
+
+&lt;p&gt;A fairly clear value proposition explaining who will like This.  However, it doesn’t explain why only being able to post ‘just 1 line a day’ is beneficial.&lt;/p&gt;
+
+&lt;p&gt;Anyways, I happened to have come from the blog post, lets get started!&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/2.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;twothirteen&quot;&gt;Two/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Entered my details but noticed there was no guide on what the password should be – the system actually allows a 1 character password.&lt;/p&gt;
+
+&lt;p&gt;I’m a supporter of Joel Califa’s &lt;a href=&quot;http://joelcalifa.com/blog/patronizing-passwords/&quot;&gt;Password Security Guide design pattern&lt;/a&gt;, which aims to educate users on using strong passwords, rather than enforcing overly strict password rules on users.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/3.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;threethirteen&quot;&gt;Three/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Nice value proposition for connecting my Twitter account. Although, would be nice to make the ‘No thanks, I don’t want to connect to Twitter’ option look a bit more clickable – perhaps an underline?&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/4.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;fourthirteen&quot;&gt;Four/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Very good to see that This. are not asking for all permissions under the sun, just the ones necessary to validate your account and see your followers.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/5.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;fivethirteen&quot;&gt;Five/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Beam me up, Scotty!&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/6.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;sixthirteen&quot;&gt;Six/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Not sure why the copy for this stage is the same as step three. I’ve already connected to Twitter so surely the copy should be more along the lines of:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Here are the folks on Twitter you know. Follow them to see what they’re sharing.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Also, tried clicking the three dots which are normally interactive and indicate a carousel. This isn’t the design pattern here. The three dots show what stage of the onboarding process we’re at. This would be a lot less confusing if it was more clearly a progress indicator.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/7.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;seventhirteen&quot;&gt;Seven/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;I decided to follow them all. Let’s continue!&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/8.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;eightthirteen&quot;&gt;Eight/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Great value proposition again. Lets see who else we can follow.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/9.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ninethirteen&quot;&gt;Nine/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Uh oh!  Looks like this page doesn’t have any more content when I scroll even though I can see the top of the next user in the list.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/10.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;tenthirteen&quot;&gt;Ten/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Value proposition is clear and keeps the tone of voice consistent with the ‘rad’, ‘cool’, ‘dude’, ‘bro’ vibe This. have got going here.&lt;/p&gt;
+
+&lt;p&gt;Downside, this page has the same issue as step nine – the content is missing when I scroll.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/11.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;eleventhirteen&quot;&gt;Eleven/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Not quite sure on the need for calling what is effectively my ‘profile’, a ‘shelf’. Anyways, the copy makes it fairly clear that this is where all my published links will be shown. It may be helpful to explain that ‘my shelf’ can be seen at &lt;a href=&quot;https://this.cm/dingledow&quot;&gt;this.cm/dingledow&lt;/a&gt; on this page.&lt;/p&gt;
+
+&lt;p&gt;Not sure why I need to upload an avatar or enter my Twitter username when I’ve already used Twitter to authenticate and sign up. This. should already be able access this information.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/12.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;twelvethirteen&quot;&gt;Twelve/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Uploaded and added the information manually.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/13.jpg
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;thirteenthirteen&quot;&gt;Thirteen/Thirteen&lt;/h2&gt;
+
+&lt;p&gt;Boom! Here’s to what should be a more valuable, less homogenous feed of content!&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href=&quot;https://this.cm/dingledow&quot;&gt;Follow me on This.&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2016 19:00:00 +0000</pubDate>
+        <link>http://david.ingledow.co.uk/blog/how-this-onboards-new-users/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/how-this-onboards-new-users/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG</title>
+        <description>&lt;p&gt;At &lt;a href=&quot;https://www.sopost.com/&quot;&gt;SoPost&lt;/a&gt;, we’ve been inspired by some of the principles put forward in Google’s Material Design. One element that we thought could be really useful as a feedback mechanism in our user journey was the loading spinner. Creating it in HTML, CSS and SVG allows us to change the colour to fit in with the brand on a per campaign basis.&lt;/p&gt;
+
+&lt;p&gt;I have recently stumbled upon &lt;a href=&quot;http://codepen.io/jczimm/&quot;&gt;jczimm’s version&lt;/a&gt; built purely in HTML, CSS and SVG.&lt;/p&gt;
+
+&lt;p&gt;I’m going to break down exactly how this works in a future update to this post, but for now, here’s the code for a Material Design spinner:&lt;/p&gt;
+
+&lt;p&gt;##Demo&lt;/p&gt;
+
+&lt;p data-height=&quot;190&quot; data-theme-id=&quot;10772&quot; data-slug-hash=&quot;vEBpoL&quot; data-default-tab=&quot;result&quot; data-user=&quot;jczimm&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/jczimm/pen/vEBpoL/&quot;&gt;Modern Google Loader in Pure CSS&lt;/a&gt; by jczimm (&lt;a href=&quot;http://codepen.io/jczimm&quot;&gt;@jczimm&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;##HTML with inline SVG&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;loader&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;svg&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;circular&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;circle&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;path&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cx&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;50&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;50&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;20&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fill&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;none&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2&quot;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;miterlimit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;10&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/svg&amp;gt;
+&amp;lt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;##SCSS&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;vg&quot;&gt;$green&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#008744;&lt;/span&gt;
+&lt;span class=&quot;vg&quot;&gt;$blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#0057e7;&lt;/span&gt;
+&lt;span class=&quot;vg&quot;&gt;$red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#d62d20;&lt;/span&gt;
+&lt;span class=&quot;vg&quot;&gt;$yellow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#ffa700;&lt;/span&gt;
+&lt;span class=&quot;vg&quot;&gt;$white&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#eee;&lt;/span&gt;
+
+&lt;span class=&quot;vg&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;color: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$white&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;loader&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;position: &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;absolute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;width: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;height: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;left: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;ss&quot;&gt;top: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;circular&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;ss&quot;&gt;animation: &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotate&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;linear&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;infinite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;ss&quot;&gt;height: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;ss&quot;&gt;position: &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;relative&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;ss&quot;&gt;width: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+
+&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dasharray: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dashoffset: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;animation:
+   &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dash&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;1.5&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;out&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;infinite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;in&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;out&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;infinite&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;linecap: &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;round&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;vi&quot;&gt;@keyframes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;transform: &lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rotate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;vi&quot;&gt;@keyframes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dasharray: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dashoffset: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dasharray: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dashoffset: &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+ &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dasharray: &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;89&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;200&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;dashoffset: &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;124&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;vi&quot;&gt;@keyframes&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;ss&quot;&gt;stroke: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;ss&quot;&gt;stroke: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;mi&quot;&gt;66&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;ss&quot;&gt;stroke: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$green&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;ss&quot;&gt;stroke: &lt;/span&gt;&lt;span class=&quot;vg&quot;&gt;$yellow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+</description>
+        <pubDate>Fri, 05 Dec 2014 21:29:00 +0000</pubDate>
+        <link>http://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/google-material-designs-animated-loading-spinner-svg-and-css/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Simple Static Web Server with 1 Line of Python</title>
+        <description>&lt;p&gt;##Why static sites are great for small projects&lt;/p&gt;
+
+&lt;p&gt;There’s plenty of tools out there for designers to show off their work, write blogs and communicate what they do on the web. For those that are diving into developing their own sites, often frameworks such as Django can be daunting and it’s something that I’m still learning after a year of getting into it. On the other hand, tools such as Tumblr and Squarespace don’t offer enough customisability for some. The answer for many is to build static sites. They’re a great introduction to learning how to build something from scratch, as well as getting started with HTML, CSS and maybe even some JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve deployed your static site, they can often be much quicker for page load speeds because there isn’t a framework having to process and fetch stuff from a database – this is awesome for improving rankings on search engines by the way!&lt;/p&gt;
+
+&lt;p&gt;##Why they suck…&lt;/p&gt;
+
+&lt;p&gt;The downside of static sites is when it comes to local development. I know I’ve been in the situation where my URL is something like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;file:///Users/dingledow/Sites/...etc
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This is just plain messy – bleurgh! It also makes it a pain to work with services like Typekit because they need to be passed a URL, whether that be a domain, localhost, or an IP address.&lt;/p&gt;
+
+&lt;p&gt;I’ve used services like MAMP/WAMP; messed around with nginx and Apache; and Fenix Web Server looks great, but I think in the long run, getting started with the terminal is a great tool to learn for anybody that enjoys designing and hacking with technology.&lt;/p&gt;
+
+&lt;p&gt;##The solution&lt;/p&gt;
+
+&lt;p&gt;Python has a great little command called SimpleHTTPServer to create a local static web server. To start it, just open the terminal and cd to the directory where your site is located and enter the following Python command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python -m SimpleHTTPServer 8888
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This will start a local web server on the IP address 0.0.0.0 on port 8888. You also get a log of all the HTTP requests that are made right in the terminal which can be great for debugging.&lt;/p&gt;
+
+&lt;p&gt;If you’re unsure on how to change directory to where your site is located, it’s fairly straightforward. For example, if my site is located in my Documents folder in the folder ‘my_personal_site’, all you would do would be:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Documents/my_personal_site/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: &lt;code class=&quot;highlighter-rouge&quot;&gt;My\ Personal\ Site/&lt;/code&gt; which is a bit messy.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Jul 2014 22:29:00 +0100</pubDate>
+        <link>http://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Trip to London</title>
+        <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6419.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6420.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6422.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6439.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6440.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6444.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6449.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6450.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6456.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6464.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6465.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6467.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6468.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6469.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6471.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6474.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6478.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6479.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6482.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6485.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6487.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6491.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/30/DSCF6493.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 30 May 2014 22:29:00 +0100</pubDate>
+        <link>http://david.ingledow.co.uk/blog/trip-london/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/trip-london/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reading Material of a Designer</title>
+        <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/29/books-organised.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I finally got round to building some Ikea storage and decided that it would be the new home for all my books. Now they’re out of their moving boxes, I can finally start to look through them again.&lt;/p&gt;
+
+&lt;p&gt;Take a look at &lt;a href=&quot;/library/&quot;&gt;my library&lt;/a&gt; to see my favourite reads.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 May 2014 22:29:00 +0100</pubDate>
+        <link>http://david.ingledow.co.uk/blog/reading-material-designer/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/reading-material-designer/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tutorial: Beyond FTP and Getting Started with Git</title>
+        <description>&lt;p&gt;##What is Git?&lt;/p&gt;
+
+&lt;p&gt;The fundamental part of Git is the ability to push and pull files from one location to another using what are called remotes. It only pushes and pulls the changes made to a file, rather than the whole file. We’ll only really look at how to start with a project using Git and just learn how to push changes to files.&lt;/p&gt;
+
+&lt;p&gt;##What is GitHub?&lt;/p&gt;
+
+&lt;p&gt;GitHub is an online service that creates an interface for managing the changes in files, as well as allowing multiple users to discuss changes before they are made. It is important to remember though that Git is the tool to transfer file changes, whereas GitHub is just a service allowing people to share and discuss files. We’ll be using GitHub to get started with Git and we’ll go into more detail throughout the tutorial.&lt;/p&gt;
+
+&lt;p&gt;##Let’s Get Started&lt;/p&gt;
+
+&lt;p&gt;In this tutorial, all we’re going to do is put the code for a &lt;strong&gt;very&lt;/strong&gt; basic website and put it on GitHub. This will involve learning the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A look at the tools I use&lt;/li&gt;
+  &lt;li&gt;How to install Git&lt;/li&gt;
+  &lt;li&gt;How to get started on GitHub&lt;/li&gt;
+  &lt;li&gt;Creating a Repository&lt;/li&gt;
+  &lt;li&gt;Creating SSH keys&lt;/li&gt;
+  &lt;li&gt;Creating the website code&lt;/li&gt;
+  &lt;li&gt;Putting the website code on GitHub&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;###1. A Look at the Tools I Use&lt;/p&gt;
+
+&lt;p&gt;There’s a few apps that I’ve grown to absolutely love. They are iTerm 2 with Oh My Zsh and the Solarized theme; as well as Atom, a text editor that fits in really nicely with Git.&lt;/p&gt;
+
+&lt;p&gt;All you need for this tutorial is a terminal and a text editor, but I couldn’t recommend enough taking the time to install the above tools – just read the amount of work that has gone into Solarized to make usability awesome. I’ll be writing a blog post soon about how to install these.&lt;/p&gt;
+
+&lt;p&gt;###2. How to Install Git&lt;/p&gt;
+
+&lt;p&gt;The first step is to head over to http://git-scm.com/downloads. Download Git for your operating system and following the installation instructions.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To check that Git has installed successfully, open the application ‘Terminal’. Or if you’ve been particularly awesome and installed iTerm2, open that instead. If this is your first time in the terminal, don’t panic! Mac OS X is built on Unix and is very similar to Linux for what we need. As a result, the Mac operating system is really just a bunch of directories and files – all you have to do is make sure you don’t delete the important ones!&lt;/p&gt;
+
+&lt;p&gt;When you open your terminal program, in this case iTerm 2, you’ll see a screen like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt; is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt;, you’ll see all the folders in your Mac’s Home directory.&lt;/p&gt;
+
+&lt;p&gt;Anyways, back to checking whether Git has installed successfully or not. The next step is to type in&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git --version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Press &lt;code class=&quot;highlighter-rouge&quot;&gt;Enter&lt;/code&gt;. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you got this far, you’ve successfully installed Git!&lt;/p&gt;
+
+&lt;p&gt;###3. How to get started in GitHub&lt;/p&gt;
+
+&lt;p&gt;Now we’ve got Git installed, we can sign up for an account on GitHub. There’s a great big call to action in the header, so just follow the necessary steps to setup an account.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Up until now, all we’ve really done is install a few things and setup an account with GitHub. In the next few steps, we’ll put together a web page and share the code to GitHub.&lt;/p&gt;
+
+&lt;p&gt;###4. Creating a Repository&lt;/p&gt;
+
+&lt;p&gt;Say we wanted to create a new website, we first need to create a Repository (or Repo) on GitHub. I’m going to call this website the most generic name for a tutorial: “Hello World”.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As shown above, give the repo a name and even a description if you want. Let’s make it public, so we don’t have to pay to play around with it. Also, let’s leave all the other options as they are for the time being.&lt;/p&gt;
+
+&lt;p&gt;Click ‘Create repository’.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;So we’ve created a repo. This will be where we store all the code for the Hello World website.&lt;/p&gt;
+
+&lt;p&gt;You can see it’s empty at the moment, so next, we need to setup a connection to GitHub form our computer so we can push up files to this repo. We’ll do this by creating SSH keys.&lt;/p&gt;
+
+&lt;p&gt;###5. Creating SSH Keys&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you’ve already created SSH keys and put them in your GitHub settings, feel free to skip this section.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assuming this is your very first repo and you’ve never used GitHub before, we need to create a pair of SSH keys for the machine you are using. This only needs to be done once. After that, you can make changes to any of the repos you own on GitHub from this machine.&lt;/p&gt;
+
+&lt;p&gt;When you create a pair of SSH keys, it will generate a public and a private key. The public key will be kept in your GitHub settings and the private key will be kept locally on your computer. It is vitally important that you do not share your private key with anyone, since it can used to create all sorts of madness.&lt;/p&gt;
+
+&lt;p&gt;####a) Check for SSH Keys&lt;/p&gt;
+
+&lt;p&gt;Open the terminal again and run the following command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd ~/.ssh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; command means ‘change directory’ to the path stated after it. In this case, it will take us to the &lt;code class=&quot;highlighter-rouge&quot;&gt;.ssh&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;p&gt;Then type in:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This will list all of the keys that you have on your machine.&lt;/p&gt;
+
+&lt;p&gt;If you have either &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;id_dsa.pub&lt;/code&gt; in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.&lt;/p&gt;
+
+&lt;p&gt;####b) Generate a New SSH Key Pair&lt;/p&gt;
+
+&lt;p&gt;To generate a new SSH key pair, enter this command with your email in place:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-keygen -t rsa -C &quot;your_email@example.com&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The default settings are preferred, so when you’re asked to &lt;code class=&quot;highlighter-rouge&quot;&gt;enter a file in which to save the key&lt;/code&gt;, just press enter to continue.&lt;/p&gt;
+
+&lt;p&gt;You will then be asked to create a passphrase:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Enter passphrase (empty for no passphrase): [Type a passphrase]
+Enter same passphrase again: [Type passphrase again]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After that, you will see something like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Your identification has been saved in /Users/you/.ssh/id_rsa.
+Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
+The key fingerprint is:
+01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You then want to run this next command to add the key to your ssh-agent. Basically, this means that you want to add the key that you just generated to your machine so it can be used.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-add ~/.ssh/id_rsa
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;####c) Add Your Public SSH Key to GitHub&lt;/p&gt;
+
+&lt;p&gt;To copy the public key of the SSH Key Pair that you just generated, use this command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pbcopy &amp;lt; ~/.ssh/id_rsa.pub
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In your GitHub settings, go to ‘SSH Keys’ and create a new key. You can call it anything you like, but I would advise making it something that is easy to reference.&lt;/p&gt;
+
+&lt;p&gt;####d) Test It Works!&lt;/p&gt;
+
+&lt;p&gt;To test that it works, enter this command in the terminal:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh -T git@github.com
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If it says that the authenticity of github.com can’t be established, just say &lt;code class=&quot;highlighter-rouge&quot;&gt;yes&lt;/code&gt; anyways. You should then see something like this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hi dingledow! You've successfully authenticated, but GitHub does not provide shell access.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;####In Summary…&lt;/p&gt;
+
+&lt;p&gt;The best way to think of SSH keys is using the metaphor of a key and a lock, where &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; is your public lock and &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa&lt;/code&gt; is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.&lt;/p&gt;
+
+&lt;p&gt;###6. Creating the website&lt;/p&gt;
+
+&lt;p&gt;The first thing to do at this stage is decide where we’re going to keep our site on our local machine. The sensible place for this would be to put our site in our “Sites” directory.&lt;/p&gt;
+
+&lt;p&gt;Open a new terminal window and run the command:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Sites/
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The easiest way I find to set up the local version of the repo is to clone it. To do this, enter the command below, but remember to replace dingledow with your GitHub username. Also, check that the repo name is correct:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git@github.com:dingledow/Hello-World.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;It will say that you’ve cloned an empty repository, but you’ll still find a directory called “Hello-World” in your Sites directory.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 May 2014 22:29:00 +0100</pubDate>
+        <link>http://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple's Leather iPhone Case</title>
+        <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6517.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It’s been a while since I bought my iPhone 5, and in the beginning, I was slightly frustrated with the marks that formed on the chamfer edges – even while being super careful.&lt;/p&gt;
+
+&lt;p&gt;I soon got over the issue because, I mean, it’s only a phone. It’s a tool to be used as it was designed. Plus, there’s more important things to worry about.&lt;/p&gt;
+
+&lt;p&gt;Now, I was in two minds whether to write this blog post. It seems rather pointless to spend my time esentially promoting the big ‘A’, but if nothing else, it’s an exercise in practicing my skills in documenting and communicating my blog posts with words and images. So, here ya go…&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6525.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6518.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6520.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6523.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The infused dye passes through the whole leather, making the inside suede colour complement the leather. The suede inside is soft and makes it fairly cushioned for the phone.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6511.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6514.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The cutouts for the heaphone jack, dock connector, speaker and microphone are made with nanometre precision. It’s also worth mentioning that this precision means that this case really grips – it’s even really quite tricky to get the phone out! Personally, I’m glad; this is exactly what you want from a case.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6527.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The subtle branding on the reverse of the case is beautifully simple.&lt;/p&gt;
+
+&lt;p&gt;I can’t recommend the case enough – it’s tough, slim and beautifully simple. They come in various colours, but for me the brown version contrasts really well with the blue tinge of the slate.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Mar 2014 21:29:00 +0000</pubDate>
+        <link>http://david.ingledow.co.uk/blog/apples-leather-iphone-case/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/apples-leather-iphone-case/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Git: An Awesome Design Tool</title>
+        <description>&lt;p&gt;Since joining &lt;a href=&quot;https://www.sopost.com/&quot;&gt;SoPost&lt;/a&gt; back in July, I’ve been using &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt; to collaborate on our platform. It’s by far one of the best tools I’ve ever learnt.&lt;/p&gt;
+
+&lt;p&gt;Back in the old days, FTP was the easiest tool for a novice to web-ops, like myself, to get designing and building sites quickly. It seemed so simple: get a web hosting package, connect to it and upload. Boom! Your site is online.&lt;/p&gt;
+
+&lt;p&gt;However, building my portfolio site around working on several projects and a dissertation meant that it always got put to the bottom of the list of things to do. Whether it was the urgency to get my portfolio site finished at the time, or just the little amount of time to work on it; I felt using FTP was making my development process very intermittent. I would work on big features at a time in one sitting, so there would be something worthwhile for me to upload. Only being able to work on one thing at a time left my site having loose ends and constant small issues that I always wanted to fix.&lt;/p&gt;
+
+&lt;p&gt;This issue was nothing compared to building the &lt;a href=&quot;http://imdnorthumbria.co.uk/&quot;&gt;IMD Northumbria&lt;/a&gt; site. Myself and &lt;a href=&quot;https://uk.linkedin.com/in/luke-emmerson-38a45347&quot;&gt;Luke Emmerson&lt;/a&gt; were both working on adding projects to the site on the opening day of the final show. Now, it is mostly the fault that we didn’t setup a proper CMS, but as a result of manually uploading content using FTP, I nearly wiped out half the site’s content hours before the opening. All was okay because of a previous local backup, but it was too close a call for my liking. This would be the last time that I would use FTP on a project.&lt;/p&gt;
+
+&lt;p&gt;Since using Git and GitHub at SoPost, I’ve been using it for my own portfolio and this shiny new blog. I’m loving it! It’s allowing me to change my process to be more iterative. I can work on several features and improvements at the same time, on different branches, allowing me to do bits as and when I want. Using Git also pushes me to run a local version of my site so I can properly test everything without the rush of pushing it online.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Feb 2014 21:29:00 +0000</pubDate>
+        <link>http://david.ingledow.co.uk/blog/git-awesome-design-tool/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/git-awesome-design-tool/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Puma Social Club</title>
+        <description>&lt;p&gt;Puma’s &lt;a href=&quot;http://www.dezeen.com/2012/07/25/puma-social-club-by-edit-and-tereza-komarkova/&quot;&gt;‘Social Club’ store in Prague&lt;/a&gt;, designed by architects &lt;a href=&quot;http://editarchitects.com/en/projects/commercial-interiors/puma-social-store-prague&quot;&gt;edit!&lt;/a&gt;, is a bar/café/retail experience. A brand experience. Visitors can admire and discuss the products over drinks. Brand conversation, as well as consumption is the aim of this store, and I must say it works quite well. To be honest, it must have worked very well, since I’m writing this article on it.&lt;/p&gt;
+
+&lt;p&gt;However, discussing the best trainers or bag on display is not my aim here. For me, the store brought up questions of brand experience and the affects of this on the high street.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-shop.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The government expects high street sales to contract to 40% of all retail spending by 2014 (&lt;a href=&quot;https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6292/2081646.pdf&quot;&gt;The Portas Review&lt;/a&gt;). This trend towards internet shopping certainly has it’s advantages, but with my recent research into urban design, the regeneration of the high street also needs to be considered on a micro level. So, as well as creating an urban design for improving the street level experience, we should consider the types of retail and commercial outlets that are appropriate for the local area and the experience within each individual outlet.&lt;/p&gt;
+
+&lt;p&gt;If the internet is taking away custom from the high street, the high street needs to offer an experience that the internet can’t. Websites already offer personal recommendations, suggestions, style guides, etc. Even social media allows for brands to communicate with consumers well. The high street can do all this – it could even do it better.&lt;/p&gt;
+
+&lt;p&gt;Given that the high street is within the realms of the physical world, the interaction with the product is immediate and tangible. However, the design of the Puma Social Club does not just benefit from the physical products on display, it is the retail experience that surrounds the products that produce this part of the brand experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-hot-chocolate.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2013/puma-photos.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Allowing visitors to discuss the products in the café area gets people interested. Hey, they even make a few bob from the drink sales as well! Staff are welcoming and knowledgeable. Polaroid shots are posted on a noticeboard. There is a sense of community. I found this experience really satisfying and engaging. This is not to say that customer service on the high street in the UK is bad, in fact, I even used to be a Customer Service Assistant myself back in the day. I just found that giving consumers areas to discuss the products, as well as creating a community around a local store gives consumers a reason to visit the physical store, rather than the online version.&lt;/p&gt;
+
+&lt;p&gt;The issue I’ve noticed is that brands seem to rely on social media as the only way of getting consumers to communicate about the products. For example, Urban Outfitters allow visitors to take Instagram pictures in the changing rooms and hashtag it with &lt;a href=&quot;https://www.instagram.com/explore/tags/urbanoutfitters/&quot;&gt;#UrbanOutfitters&lt;/a&gt;. This creates a digital space for people to discuss and share products with friends and followers online. However, even though this is a great marketing tool, why not go further and bring this discussion out from behind the glass of a phone screen and give consumers the opportunity to discuss brands and their products within the physical world – bring people back to the high street. Creating a real-world community and place for discussion first, then overlaying a digital community second, could engage people more in the products, brands and retail stores on the high street. This is what I see was successfully achieved at the Puma Social Club store in Prague.&lt;/p&gt;
+
+&lt;p&gt;By no means is this solution perfect, and it is certainly easier said than done given the huge amount of factors involved and the assumptions I’ve made, but the solution has to be appropriated for the brand – every brand has different aims, objectives and visual identities. It is also important to consider that this solution is one of many. The same idea cannot be propagated across every high street. The solution has to be appropriate to local context: people, affluence, geographical location, etc. of which I will revisit in future blog posts.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Feb 2013 21:29:00 +0000</pubDate>
+        <link>http://david.ingledow.co.uk/blog/puma-social-club/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/puma-social-club/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Canniest Degree Show on Earth</title>
+        <description>&lt;p&gt;Every year, the Northumbria School of Design exhibit students’ work at the &lt;a href=&quot;http://www.northumbria.ac.uk/sd/academic/scd/whatson/news/reveal2012&quot;&gt;REVEAL show&lt;/a&gt;. It is a chance for the public, but more importantly, potential employers to view graduate’s final work for the year. They also exhibit the work at the &lt;a href=&quot;http://www.dandad.org/awards/new-blood&quot;&gt;D&amp;amp;AD ‘New Blood’&lt;/a&gt; show in London, which is held in the Old Spitalfields Market.&lt;/p&gt;
+
+&lt;p&gt;Given that this is one of the best chances that graduates of Northumbria’s School of Design get to show off their work, it is obviously really important to make an impact. That is what the Graphic Design year group of 2012 have certainly done!&lt;/p&gt;
+
+&lt;p&gt;They really wanted to show their work off to prospective employers, so they focussed on the word ‘show’ and developed their own circus brand for the exhibition. However, since D&amp;amp;AD New Blood exhibits work from all over the country, they needed something to strengthen their identity and make themselves memorable. This led to their final brand being heavily influenced by the thing that has all influenced their lives in Newcastle – the Geordie dialect.&lt;/p&gt;
+
+&lt;div class=&quot;blog__img--lg&quot;&gt;
+  &lt;img src=&quot;http://ingledow-2016.s3.amazonaws.com/blog/img/2012/circus-people.jpg&quot; /&gt;
+  &lt;span class=&quot;blog__img--lg__caption&quot;&gt;Image courtesy of &lt;a href=&quot;https://twitter.com/itsallcraig&quot;&gt;Craig Hellings&lt;/a&gt;&lt;/span&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 28 Jun 2012 22:29:00 +0100</pubDate>
+        <link>http://david.ingledow.co.uk/blog/canniest-degree-show-earth/</link>
+        <guid isPermaLink="true">http://david.ingledow.co.uk/blog/canniest-degree-show-earth/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

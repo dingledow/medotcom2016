@@ -25,3 +25,5 @@ exclude:
 
 include:
   - .nojekyll
+
+destination: "docs"

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://use.typekit.net/ilo0oai.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link rel='shortcut icon' type='image/x-icon' href='http://ingledow-2016.s3.amazonaws.com/public/img/favicon.ico' />
+
+  <title>David Ingledow – Simple Static Web Server with 1 Line of Python</title>
+  <meta name="description" content="##Why static sites are great for small projects">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://david.ingledow.co.uk/feed.xml">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37251060-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '589690484520254'); 
+  fbq('track', 'PageView');
+  </script>
+  <noscript>
+   <img height="1" width="1" 
+  src="https://www.facebook.com/tr?id=589690484520254&ev=PageView
+  &noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+
+
+  <body>
+
+    <nav>
+  <a class="nav__about" href="/">About</a>
+  <a class="nav__blog" href="/blog/">Blog</a>
+  <a class="nav__library" href="/library/">Library</a>
+</nav>
+
+    <div class="content-wrapper">
+      <style>
+  .nav__blog{
+    color: #da3877;
+    border-bottom: 1.5px solid #da3877;
+  }
+</style>
+
+<div class="wrap">
+  <div class="row">
+    <div class="col__lg-9-12 col__md-12-12 col__sm-12-12">
+      <h1 class="blog-index__page-h1">Simple Static Web Server with 1 Line of Python</h1>
+      <span class="blog-index__date">23 July 2014</span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col__lg-8-12 offset__lg-4-12 col__md-12-12 col__sm-12-12 blog__content">
+      <p>##Why static sites are great for small projects</p>
+
+<p>There’s plenty of tools out there for designers to show off their work, write blogs and communicate what they do on the web. For those that are diving into developing their own sites, often frameworks such as Django can be daunting and it’s something that I’m still learning after a year of getting into it. On the other hand, tools such as Tumblr and Squarespace don’t offer enough customisability for some. The answer for many is to build static sites. They’re a great introduction to learning how to build something from scratch, as well as getting started with HTML, CSS and maybe even some JavaScript.</p>
+
+<p>Once you’ve deployed your static site, they can often be much quicker for page load speeds because there isn’t a framework having to process and fetch stuff from a database – this is awesome for improving rankings on search engines by the way!</p>
+
+<p>##Why they suck…</p>
+
+<p>The downside of static sites is when it comes to local development. I know I’ve been in the situation where my URL is something like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file:///Users/dingledow/Sites/...etc
+</code></pre></div></div>
+
+<p>This is just plain messy – bleurgh! It also makes it a pain to work with services like Typekit because they need to be passed a URL, whether that be a domain, localhost, or an IP address.</p>
+
+<p>I’ve used services like MAMP/WAMP; messed around with nginx and Apache; and Fenix Web Server looks great, but I think in the long run, getting started with the terminal is a great tool to learn for anybody that enjoys designing and hacking with technology.</p>
+
+<p>##The solution</p>
+
+<p>Python has a great little command called SimpleHTTPServer to create a local static web server. To start it, just open the terminal and cd to the directory where your site is located and enter the following Python command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python -m SimpleHTTPServer 8888
+</code></pre></div></div>
+
+<p>This will start a local web server on the IP address 0.0.0.0 on port 8888. You also get a log of all the HTTP requests that are made right in the terminal which can be great for debugging.</p>
+
+<p>If you’re unsure on how to change directory to where your site is located, it’s fairly straightforward. For example, if my site is located in my Documents folder in the folder ‘my_personal_site’, all you would do would be:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Documents/my_personal_site/
+</code></pre></div></div>
+
+<p>TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: <code class="highlighter-rouge">My\ Personal\ Site/</code> which is a bit messy.</p>
+
+    </div>
+    <div class="col__12-12 blog__footer">
+      <div class="row">
+        <div class="col__lg-4-12">
+          <h2>Share</h2>
+          <a href="https://twitter.com/share" class="twitter-share-button"{count} data-text="Simple Static Web Server with 1 Line of Python" data-via="dingledow" data-size="large" data-dnt="true">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="col__lg-8-12">
+          <h2>Read More</h2>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <footer>
+
+</footer>
+
+
+  </body>
+
+</html>

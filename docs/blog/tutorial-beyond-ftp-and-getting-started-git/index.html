@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="https://use.typekit.net/ilo0oai.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <link rel='shortcut icon' type='image/x-icon' href='http://ingledow-2016.s3.amazonaws.com/public/img/favicon.ico' />
+
+  <title>David Ingledow – Tutorial: Beyond FTP and Getting Started with Git</title>
+  <meta name="description" content="##What is Git?">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://david.ingledow.co.uk/blog/tutorial-beyond-ftp-and-getting-started-git/">
+  <link rel="alternate" type="application/rss+xml" title="" href="http://david.ingledow.co.uk/feed.xml">
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-37251060-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+  
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+   fbq('init', '589690484520254'); 
+  fbq('track', 'PageView');
+  </script>
+  <noscript>
+   <img height="1" width="1" 
+  src="https://www.facebook.com/tr?id=589690484520254&ev=PageView
+  &noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+
+
+  <body>
+
+    <nav>
+  <a class="nav__about" href="/">About</a>
+  <a class="nav__blog" href="/blog/">Blog</a>
+  <a class="nav__library" href="/library/">Library</a>
+</nav>
+
+    <div class="content-wrapper">
+      <style>
+  .nav__blog{
+    color: #da3877;
+    border-bottom: 1.5px solid #da3877;
+  }
+</style>
+
+<div class="wrap">
+  <div class="row">
+    <div class="col__lg-9-12 col__md-12-12 col__sm-12-12">
+      <h1 class="blog-index__page-h1">Tutorial: Beyond FTP and Getting Started with Git</h1>
+      <span class="blog-index__date">24 May 2014</span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col__lg-8-12 offset__lg-4-12 col__md-12-12 col__sm-12-12 blog__content">
+      <p>##What is Git?</p>
+
+<p>The fundamental part of Git is the ability to push and pull files from one location to another using what are called remotes. It only pushes and pulls the changes made to a file, rather than the whole file. We’ll only really look at how to start with a project using Git and just learn how to push changes to files.</p>
+
+<p>##What is GitHub?</p>
+
+<p>GitHub is an online service that creates an interface for managing the changes in files, as well as allowing multiple users to discuss changes before they are made. It is important to remember though that Git is the tool to transfer file changes, whereas GitHub is just a service allowing people to share and discuss files. We’ll be using GitHub to get started with Git and we’ll go into more detail throughout the tutorial.</p>
+
+<p>##Let’s Get Started</p>
+
+<p>In this tutorial, all we’re going to do is put the code for a <strong>very</strong> basic website and put it on GitHub. This will involve learning the following:</p>
+
+<ol>
+  <li>A look at the tools I use</li>
+  <li>How to install Git</li>
+  <li>How to get started on GitHub</li>
+  <li>Creating a Repository</li>
+  <li>Creating SSH keys</li>
+  <li>Creating the website code</li>
+  <li>Putting the website code on GitHub</li>
+</ol>
+
+<p>###1. A Look at the Tools I Use</p>
+
+<p>There’s a few apps that I’ve grown to absolutely love. They are iTerm 2 with Oh My Zsh and the Solarized theme; as well as Atom, a text editor that fits in really nicely with Git.</p>
+
+<p>All you need for this tutorial is a terminal and a text editor, but I couldn’t recommend enough taking the time to install the above tools – just read the amount of work that has gone into Solarized to make usability awesome. I’ll be writing a blog post soon about how to install these.</p>
+
+<p>###2. How to Install Git</p>
+
+<p>The first step is to head over to http://git-scm.com/downloads. Download Git for your operating system and following the installation instructions.</p>
+
+<div class="blog__img--lg">
+  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/download_git.jpg" />
+</div>
+
+<p>To check that Git has installed successfully, open the application ‘Terminal’. Or if you’ve been particularly awesome and installed iTerm2, open that instead. If this is your first time in the terminal, don’t panic! Mac OS X is built on Unix and is very similar to Linux for what we need. As a result, the Mac operating system is really just a bunch of directories and files – all you have to do is make sure you don’t delete the important ones!</p>
+
+<p>When you open your terminal program, in this case iTerm 2, you’ll see a screen like this:</p>
+
+<p><img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png" alt="" /></p>
+
+<p>Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The <code class="highlighter-rouge">~</code> is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in <code class="highlighter-rouge">ls</code>, you’ll see all the folders in your Mac’s Home directory.</p>
+
+<p>Anyways, back to checking whether Git has installed successfully or not. The next step is to type in</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git --version
+</code></pre></div></div>
+
+<p>Press <code class="highlighter-rouge">Enter</code>. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:</p>
+
+<p><img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png" alt="" /></p>
+
+<p>If you got this far, you’ve successfully installed Git!</p>
+
+<p>###3. How to get started in GitHub</p>
+
+<p>Now we’ve got Git installed, we can sign up for an account on GitHub. There’s a great big call to action in the header, so just follow the necessary steps to setup an account.</p>
+
+<div class="blog__img--lg">
+  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-cta.jpg" />
+</div>
+
+<p>Up until now, all we’ve really done is install a few things and setup an account with GitHub. In the next few steps, we’ll put together a web page and share the code to GitHub.</p>
+
+<p>###4. Creating a Repository</p>
+
+<p>Say we wanted to create a new website, we first need to create a Repository (or Repo) on GitHub. I’m going to call this website the most generic name for a tutorial: “Hello World”.</p>
+
+<div class="blog__img--lg">
+  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo.jpg" />
+</div>
+
+<p>As shown above, give the repo a name and even a description if you want. Let’s make it public, so we don’t have to pay to play around with it. Also, let’s leave all the other options as they are for the time being.</p>
+
+<p>Click ‘Create repository’.</p>
+
+<div class="blog__img--lg">
+  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/github-repo-new.jpg" />
+</div>
+
+<p>So we’ve created a repo. This will be where we store all the code for the Hello World website.</p>
+
+<p>You can see it’s empty at the moment, so next, we need to setup a connection to GitHub form our computer so we can push up files to this repo. We’ll do this by creating SSH keys.</p>
+
+<p>###5. Creating SSH Keys</p>
+
+<p><strong>If you’ve already created SSH keys and put them in your GitHub settings, feel free to skip this section.</strong></p>
+
+<p>Assuming this is your very first repo and you’ve never used GitHub before, we need to create a pair of SSH keys for the machine you are using. This only needs to be done once. After that, you can make changes to any of the repos you own on GitHub from this machine.</p>
+
+<p>When you create a pair of SSH keys, it will generate a public and a private key. The public key will be kept in your GitHub settings and the private key will be kept locally on your computer. It is vitally important that you do not share your private key with anyone, since it can used to create all sorts of madness.</p>
+
+<p>####a) Check for SSH Keys</p>
+
+<p>Open the terminal again and run the following command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/.ssh
+</code></pre></div></div>
+
+<p>The <code class="highlighter-rouge">cd</code> command means ‘change directory’ to the path stated after it. In this case, it will take us to the <code class="highlighter-rouge">.ssh</code> directory.</p>
+
+<p>Then type in:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ls
+</code></pre></div></div>
+
+<p>This will list all of the keys that you have on your machine.</p>
+
+<p>If you have either <code class="highlighter-rouge">id_rsa.pub</code> or <code class="highlighter-rouge">id_dsa.pub</code> in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.</p>
+
+<p>####b) Generate a New SSH Key Pair</p>
+
+<p>To generate a new SSH key pair, enter this command with your email in place:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen -t rsa -C "your_email@example.com"
+</code></pre></div></div>
+
+<p>The default settings are preferred, so when you’re asked to <code class="highlighter-rouge">enter a file in which to save the key</code>, just press enter to continue.</p>
+
+<p>You will then be asked to create a passphrase:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enter passphrase (empty for no passphrase): [Type a passphrase]
+Enter same passphrase again: [Type passphrase again]
+</code></pre></div></div>
+
+<p>After that, you will see something like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Your identification has been saved in /Users/you/.ssh/id_rsa.
+Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
+The key fingerprint is:
+01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
+</code></pre></div></div>
+
+<p>You then want to run this next command to add the key to your ssh-agent. Basically, this means that you want to add the key that you just generated to your machine so it can be used.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-add ~/.ssh/id_rsa
+</code></pre></div></div>
+
+<p>####c) Add Your Public SSH Key to GitHub</p>
+
+<p>To copy the public key of the SSH Key Pair that you just generated, use this command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pbcopy &lt; ~/.ssh/id_rsa.pub
+</code></pre></div></div>
+
+<p>In your GitHub settings, go to ‘SSH Keys’ and create a new key. You can call it anything you like, but I would advise making it something that is easy to reference.</p>
+
+<p>####d) Test It Works!</p>
+
+<p>To test that it works, enter this command in the terminal:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh -T git@github.com
+</code></pre></div></div>
+
+<p>If it says that the authenticity of github.com can’t be established, just say <code class="highlighter-rouge">yes</code> anyways. You should then see something like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hi dingledow! You've successfully authenticated, but GitHub does not provide shell access.
+</code></pre></div></div>
+
+<p>####In Summary…</p>
+
+<p>The best way to think of SSH keys is using the metaphor of a key and a lock, where <code class="highlighter-rouge">id_rsa.pub</code> is your public lock and <code class="highlighter-rouge">id_rsa</code> is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.</p>
+
+<p>###6. Creating the website</p>
+
+<p>The first thing to do at this stage is decide where we’re going to keep our site on our local machine. The sensible place for this would be to put our site in our “Sites” directory.</p>
+
+<p>Open a new terminal window and run the command:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Sites/
+</code></pre></div></div>
+
+<p>The easiest way I find to set up the local version of the repo is to clone it. To do this, enter the command below, but remember to replace dingledow with your GitHub username. Also, check that the repo name is correct:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git@github.com:dingledow/Hello-World.git
+</code></pre></div></div>
+
+<p>It will say that you’ve cloned an empty repository, but you’ll still find a directory called “Hello-World” in your Sites directory.</p>
+
+    </div>
+    <div class="col__12-12 blog__footer">
+      <div class="row">
+        <div class="col__lg-4-12">
+          <h2>Share</h2>
+          <a href="https://twitter.com/share" class="twitter-share-button"{count} data-text="Tutorial: Beyond FTP and Getting Started with Git" data-via="dingledow" data-size="large" data-dnt="true">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="col__lg-8-12">
+          <h2>Read More</h2>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <footer>
+
+</footer>
+
+
+  </body>
+
+</html>
