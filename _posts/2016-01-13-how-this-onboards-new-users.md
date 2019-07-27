@@ -6,7 +6,7 @@ permalink: blog/:title/
 relPosts:
 - relPostTitle: Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG
   relPostPermalink: /blog/google-material-designs-animated-loading-spinner-svg-and-css/
-  relPostImg: http://ingledow-2016.s3.amazonaws.com/blog/img/2014/12/5/material-spinner2.gif
+  relPostImg: https://ingledow-2016.s3.amazonaws.com/blog/img/2014/12/5/material-spinner2.gif
 ---
 
 I was really impressed by the thoughts [Andrew Golis](https://twitter.com/agolis) discussed in his blog post ['I drew a bunch of dots to explain why social media is broken'](https://blog.this.cm/i-drew-a-bunch-of-dots-to-explain-why-social-media-is-broken-97725e2f0cc4#.fmvttzfvt).
@@ -22,7 +22,7 @@ These problems are attempting to be solved by '[This.](https://this.cm/join)', o
 Since I found This. to be such a refreshing take on consuming content on the web, I thought I would do a teardown of the onboarding process. This is inspired by [useronboard.com](http://www.useronboard.com).
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/1.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/1.jpg
 ">
 </div>
 
@@ -37,7 +37,7 @@ A fairly clear value proposition explaining who will like This.  However, it doe
 Anyways, I happened to have come from the blog post, lets get started!
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/2.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/2.jpg
 ">
 </div>
 
@@ -48,7 +48,7 @@ Entered my details but noticed there was no guide on what the password should be
 I'm a supporter of Joel Califa's [Password Security Guide design pattern](http://joelcalifa.com/blog/patronizing-passwords/), which aims to educate users on using strong passwords, rather than enforcing overly strict password rules on users.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/3.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/3.jpg
 ">
 </div>
 
@@ -57,7 +57,7 @@ I'm a supporter of Joel Califa's [Password Security Guide design pattern](http:/
 Nice value proposition for connecting my Twitter account. Although, would be nice to make the 'No thanks, I don't want to connect to Twitter' option look a bit more clickable – perhaps an underline?
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/4.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/4.jpg
 ">
 </div>
 
@@ -66,7 +66,7 @@ Nice value proposition for connecting my Twitter account. Although, would be nic
 Very good to see that This. are not asking for all permissions under the sun, just the ones necessary to validate your account and see your followers.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/5.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/5.jpg
 ">
 </div>
 
@@ -75,7 +75,7 @@ Very good to see that This. are not asking for all permissions under the sun, ju
 Beam me up, Scotty!
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/6.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/6.jpg
 ">
 </div>
 
@@ -88,7 +88,7 @@ Not sure why the copy for this stage is the same as step three. I've already con
 Also, tried clicking the three dots which are normally interactive and indicate a carousel. This isn't the design pattern here. The three dots show what stage of the onboarding process we're at. This would be a lot less confusing if it was more clearly a progress indicator.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/7.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/7.jpg
 ">
 </div>
 
@@ -97,7 +97,7 @@ Also, tried clicking the three dots which are normally interactive and indicate 
 I decided to follow them all. Let's continue!
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/8.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/8.jpg
 ">
 </div>
 
@@ -106,7 +106,7 @@ I decided to follow them all. Let's continue!
 Great value proposition again. Lets see who else we can follow.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/9.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/9.jpg
 ">
 </div>
 
@@ -115,7 +115,7 @@ Great value proposition again. Lets see who else we can follow.
 Uh oh!  Looks like this page doesn't have any more content when I scroll even though I can see the top of the next user in the list.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/10.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/10.jpg
 ">
 </div>
 
@@ -126,7 +126,7 @@ Value proposition is clear and keeps the tone of voice consistent with the 'rad'
 Downside, this page has the same issue as step nine – the content is missing when I scroll.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/11.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/11.jpg
 ">
 </div>
 
@@ -137,7 +137,7 @@ Not quite sure on the need for calling what is effectively my 'profile', a 'shel
 Not sure why I need to upload an avatar or enter my Twitter username when I've already used Twitter to authenticate and sign up. This. should already be able access this information.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/12.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/12.jpg
 ">
 </div>
 
@@ -146,7 +146,7 @@ Not sure why I need to upload an avatar or enter my Twitter username when I've a
 Uploaded and added the information manually.
 
 <div class="blog__img--lg">
-  <img src="http://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/13.jpg
+  <img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2016/01/14/this-onboard/13.jpg
 ">
 </div>
 
