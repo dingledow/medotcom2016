@@ -65,7 +65,7 @@
 
 <p>The downside of static sites is when it comes to local development. I know I’ve been in the situation where my URL is something like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file:///Users/dingledow/Sites/...etc
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>file:///Users/dingledow/Sites/...etc
 </code></pre></div></div>
 
 <p>This is just plain messy – bleurgh! It also makes it a pain to work with services like Typekit because they need to be passed a URL, whether that be a domain, localhost, or an IP address.</p>
@@ -76,17 +76,17 @@
 
 <p>Python has a great little command called SimpleHTTPServer to create a local static web server. To start it, just open the terminal and cd to the directory where your site is located and enter the following Python command:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python -m SimpleHTTPServer 8888
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>python -m SimpleHTTPServer 8888
 </code></pre></div></div>
 
 <p>This will start a local web server on the IP address 0.0.0.0 on port 8888. You also get a log of all the HTTP requests that are made right in the terminal which can be great for debugging.</p>
 
 <p>If you’re unsure on how to change directory to where your site is located, it’s fairly straightforward. For example, if my site is located in my Documents folder in the folder ‘my_personal_site’, all you would do would be:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Documents/my_personal_site/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Documents/my_personal_site/
 </code></pre></div></div>
 
-<p>TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: <code class="highlighter-rouge">My\ Personal\ Site/</code> which is a bit messy.</p>
+<p>TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: <code class="language-plaintext highlighter-rouge">My\ Personal\ Site/</code> which is a bit messy.</p>
 
     </div>
     <div class="col__12-12 blog__footer">
