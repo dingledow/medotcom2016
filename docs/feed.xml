@@ -5,9 +5,9 @@
     <description></description>
     <link>https://david.ingledow.co.uk/</link>
     <atom:link href="https://david.ingledow.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Jul 2019 12:57:02 +0100</pubDate>
-    <lastBuildDate>Sat, 27 Jul 2019 12:57:02 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Sun, 17 Jan 2021 14:58:44 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2021 14:58:44 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>How This. Onboards New Users</title>
@@ -172,7 +172,7 @@
       </item>
     
       <item>
-        <title>Google Material Design's Animated Loading Spinner Using HTML, CSS and SVG</title>
+        <title>Google Material Design&apos;s Animated Loading Spinner Using HTML, CSS and SVG</title>
         <description>&lt;p&gt;At &lt;a href=&quot;https://www.sopost.com/&quot;&gt;SoPost&lt;/a&gt;, we’ve been inspired by some of the principles put forward in Google’s Material Design. One element that we thought could be really useful as a feedback mechanism in our user journey was the loading spinner. Creating it in HTML, CSS and SVG allows us to change the colour to fit in with the brand on a per campaign basis.&lt;/p&gt;
 
 &lt;p&gt;I have recently stumbled upon &lt;a href=&quot;http://codepen.io/jczimm/&quot;&gt;jczimm’s version&lt;/a&gt; built purely in HTML, CSS and SVG.&lt;/p&gt;
@@ -287,7 +287,7 @@
 
 &lt;p&gt;The downside of static sites is when it comes to local development. I know I’ve been in the situation where my URL is something like this:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;file:///Users/dingledow/Sites/...etc
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;file:///Users/dingledow/Sites/...etc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;This is just plain messy – bleurgh! It also makes it a pain to work with services like Typekit because they need to be passed a URL, whether that be a domain, localhost, or an IP address.&lt;/p&gt;
@@ -298,17 +298,17 @@
 
 &lt;p&gt;Python has a great little command called SimpleHTTPServer to create a local static web server. To start it, just open the terminal and cd to the directory where your site is located and enter the following Python command:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python -m SimpleHTTPServer 8888
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;python -m SimpleHTTPServer 8888
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;This will start a local web server on the IP address 0.0.0.0 on port 8888. You also get a log of all the HTTP requests that are made right in the terminal which can be great for debugging.&lt;/p&gt;
 
 &lt;p&gt;If you’re unsure on how to change directory to where your site is located, it’s fairly straightforward. For example, if my site is located in my Documents folder in the folder ‘my_personal_site’, all you would do would be:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Documents/my_personal_site/
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Documents/my_personal_site/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: &lt;code class=&quot;highlighter-rouge&quot;&gt;My\ Personal\ Site/&lt;/code&gt; which is a bit messy.&lt;/p&gt;
+&lt;p&gt;TIPS: Use the tab key to autocomplete terminal commands. It’s especially useful for navigating around directories. Also, it’s best practice to not use spaces and keep everything lowercase for directory names, otherwise the above would be: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;My\ Personal\ Site/&lt;/code&gt; which is a bit messy.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Jul 2014 22:29:00 +0100</pubDate>
         <link>https://david.ingledow.co.uk/blog/simple-static-web-server-1-line-python/</link>
@@ -459,14 +459,14 @@
 
 &lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The &lt;code class=&quot;highlighter-rouge&quot;&gt;~&lt;/code&gt; is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in &lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt;, you’ll see all the folders in your Mac’s Home directory.&lt;/p&gt;
+&lt;p&gt;Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~&lt;/code&gt; is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ls&lt;/code&gt;, you’ll see all the folders in your Mac’s Home directory.&lt;/p&gt;
 
 &lt;p&gt;Anyways, back to checking whether Git has installed successfully or not. The next step is to type in&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git --version
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git --version
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Press &lt;code class=&quot;highlighter-rouge&quot;&gt;Enter&lt;/code&gt;. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:&lt;/p&gt;
+&lt;p&gt;Press &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enter&lt;/code&gt;. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -514,38 +514,38 @@
 
 &lt;p&gt;Open the terminal again and run the following command:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd ~/.ssh
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd ~/.ssh
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; command means ‘change directory’ to the path stated after it. In this case, it will take us to the &lt;code class=&quot;highlighter-rouge&quot;&gt;.ssh&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd&lt;/code&gt; command means ‘change directory’ to the path stated after it. In this case, it will take us to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.ssh&lt;/code&gt; directory.&lt;/p&gt;
 
 &lt;p&gt;Then type in:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ls
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;This will list all of the keys that you have on your machine.&lt;/p&gt;
 
-&lt;p&gt;If you have either &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;id_dsa.pub&lt;/code&gt; in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.&lt;/p&gt;
+&lt;p&gt;If you have either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id_dsa.pub&lt;/code&gt; in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.&lt;/p&gt;
 
 &lt;p&gt;####b) Generate a New SSH Key Pair&lt;/p&gt;
 
 &lt;p&gt;To generate a new SSH key pair, enter this command with your email in place:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-keygen -t rsa -C &quot;your_email@example.com&quot;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-keygen -t rsa -C &quot;your_email@example.com&quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;The default settings are preferred, so when you’re asked to &lt;code class=&quot;highlighter-rouge&quot;&gt;enter a file in which to save the key&lt;/code&gt;, just press enter to continue.&lt;/p&gt;
+&lt;p&gt;The default settings are preferred, so when you’re asked to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;enter a file in which to save the key&lt;/code&gt;, just press enter to continue.&lt;/p&gt;
 
 &lt;p&gt;You will then be asked to create a passphrase:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Enter passphrase (empty for no passphrase): [Type a passphrase]
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type passphrase again]
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;After that, you will see something like this:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Your identification has been saved in /Users/you/.ssh/id_rsa.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Your identification has been saved in /Users/you/.ssh/id_rsa.
 Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
 The key fingerprint is:
 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
@@ -553,14 +553,14 @@ The key fingerprint is:
 
 &lt;p&gt;You then want to run this next command to add the key to your ssh-agent. Basically, this means that you want to add the key that you just generated to your machine so it can be used.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-add ~/.ssh/id_rsa
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh-add ~/.ssh/id_rsa
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;####c) Add Your Public SSH Key to GitHub&lt;/p&gt;
 
 &lt;p&gt;To copy the public key of the SSH Key Pair that you just generated, use this command:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pbcopy &amp;lt; ~/.ssh/id_rsa.pub
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;pbcopy &amp;lt; ~/.ssh/id_rsa.pub
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;In your GitHub settings, go to ‘SSH Keys’ and create a new key. You can call it anything you like, but I would advise making it something that is easy to reference.&lt;/p&gt;
@@ -569,17 +569,17 @@ The key fingerprint is:
 
 &lt;p&gt;To test that it works, enter this command in the terminal:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh -T git@github.com
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ssh -T git@github.com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;If it says that the authenticity of github.com can’t be established, just say &lt;code class=&quot;highlighter-rouge&quot;&gt;yes&lt;/code&gt; anyways. You should then see something like this:&lt;/p&gt;
+&lt;p&gt;If it says that the authenticity of github.com can’t be established, just say &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;yes&lt;/code&gt; anyways. You should then see something like this:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hi dingledow! You've successfully authenticated, but GitHub does not provide shell access.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Hi dingledow! You&apos;ve successfully authenticated, but GitHub does not provide shell access.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;####In Summary…&lt;/p&gt;
 
-&lt;p&gt;The best way to think of SSH keys is using the metaphor of a key and a lock, where &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; is your public lock and &lt;code class=&quot;highlighter-rouge&quot;&gt;id_rsa&lt;/code&gt; is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.&lt;/p&gt;
+&lt;p&gt;The best way to think of SSH keys is using the metaphor of a key and a lock, where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id_rsa.pub&lt;/code&gt; is your public lock and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id_rsa&lt;/code&gt; is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.&lt;/p&gt;
 
 &lt;p&gt;###6. Creating the website&lt;/p&gt;
 
@@ -587,12 +587,12 @@ The key fingerprint is:
 
 &lt;p&gt;Open a new terminal window and run the command:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Sites/
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd Sites/
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;The easiest way I find to set up the local version of the repo is to clone it. To do this, enter the command below, but remember to replace dingledow with your GitHub username. Also, check that the repo name is correct:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git@github.com:dingledow/Hello-World.git
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git@github.com:dingledow/Hello-World.git
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;It will say that you’ve cloned an empty repository, but you’ll still find a directory called “Hello-World” in your Sites directory.&lt;/p&gt;
@@ -605,7 +605,7 @@ The key fingerprint is:
       </item>
     
       <item>
-        <title>Apple's Leather iPhone Case</title>
+        <title>Apple&apos;s Leather iPhone Case</title>
         <description>&lt;div class=&quot;blog__img--lg&quot;&gt;
   &lt;img src=&quot;https://ingledow-2016.s3.amazonaws.com/blog/img/2014/03/22/DSCF6517.jpg&quot; /&gt;
 &lt;/div&gt;

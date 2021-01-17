@@ -97,14 +97,14 @@
 
 <p><img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/terminal.png" alt="" /></p>
 
-<p>Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The <code class="highlighter-rouge">~</code> is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in <code class="highlighter-rouge">ls</code>, you’ll see all the folders in your Mac’s Home directory.</p>
+<p>Just to give a bit of context, the line that our cursor is at shows what directory we’re in. The <code class="language-plaintext highlighter-rouge">~</code> is the root directory for the user of this computer and assuming it isn’t a shared machine, it’ll be your root directory. Just for fun, if you type in <code class="language-plaintext highlighter-rouge">ls</code>, you’ll see all the folders in your Mac’s Home directory.</p>
 
 <p>Anyways, back to checking whether Git has installed successfully or not. The next step is to type in</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git --version
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git --version
 </code></pre></div></div>
 
-<p>Press <code class="highlighter-rouge">Enter</code>. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:</p>
+<p>Press <code class="language-plaintext highlighter-rouge">Enter</code>. On the line below, the version of Git that you installed will be displayed. You can see that I’m a little bit behind the latest version release:</p>
 
 <p><img src="https://ingledow-2016.s3.amazonaws.com/blog/img/2014/05/25/git-version.png" alt="" /></p>
 
@@ -152,38 +152,38 @@
 
 <p>Open the terminal again and run the following command:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/.ssh
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~/.ssh
 </code></pre></div></div>
 
-<p>The <code class="highlighter-rouge">cd</code> command means ‘change directory’ to the path stated after it. In this case, it will take us to the <code class="highlighter-rouge">.ssh</code> directory.</p>
+<p>The <code class="language-plaintext highlighter-rouge">cd</code> command means ‘change directory’ to the path stated after it. In this case, it will take us to the <code class="language-plaintext highlighter-rouge">.ssh</code> directory.</p>
 
 <p>Then type in:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ls
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ls
 </code></pre></div></div>
 
 <p>This will list all of the keys that you have on your machine.</p>
 
-<p>If you have either <code class="highlighter-rouge">id_rsa.pub</code> or <code class="highlighter-rouge">id_dsa.pub</code> in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.</p>
+<p>If you have either <code class="language-plaintext highlighter-rouge">id_rsa.pub</code> or <code class="language-plaintext highlighter-rouge">id_dsa.pub</code> in the list, skip to step ‘c)’, otherwise, let’s generate a new SSH key pair.</p>
 
 <p>####b) Generate a New SSH Key Pair</p>
 
 <p>To generate a new SSH key pair, enter this command with your email in place:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen -t rsa -C "your_email@example.com"
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen -t rsa -C "your_email@example.com"
 </code></pre></div></div>
 
-<p>The default settings are preferred, so when you’re asked to <code class="highlighter-rouge">enter a file in which to save the key</code>, just press enter to continue.</p>
+<p>The default settings are preferred, so when you’re asked to <code class="language-plaintext highlighter-rouge">enter a file in which to save the key</code>, just press enter to continue.</p>
 
 <p>You will then be asked to create a passphrase:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enter passphrase (empty for no passphrase): [Type a passphrase]
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type passphrase again]
 </code></pre></div></div>
 
 <p>After that, you will see something like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Your identification has been saved in /Users/you/.ssh/id_rsa.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Your identification has been saved in /Users/you/.ssh/id_rsa.
 Your public key has been saved in /Users/you/.ssh/id_rsa.pub.
 The key fingerprint is:
 01:0f:f4:3b:ca:85:d6:17:a1:7d:f0:68:9d:f0:a2:db your_email@example.com
@@ -191,14 +191,14 @@ The key fingerprint is:
 
 <p>You then want to run this next command to add the key to your ssh-agent. Basically, this means that you want to add the key that you just generated to your machine so it can be used.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-add ~/.ssh/id_rsa
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-add ~/.ssh/id_rsa
 </code></pre></div></div>
 
 <p>####c) Add Your Public SSH Key to GitHub</p>
 
 <p>To copy the public key of the SSH Key Pair that you just generated, use this command:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pbcopy &lt; ~/.ssh/id_rsa.pub
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pbcopy &lt; ~/.ssh/id_rsa.pub
 </code></pre></div></div>
 
 <p>In your GitHub settings, go to ‘SSH Keys’ and create a new key. You can call it anything you like, but I would advise making it something that is easy to reference.</p>
@@ -207,17 +207,17 @@ The key fingerprint is:
 
 <p>To test that it works, enter this command in the terminal:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh -T git@github.com
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh -T git@github.com
 </code></pre></div></div>
 
-<p>If it says that the authenticity of github.com can’t be established, just say <code class="highlighter-rouge">yes</code> anyways. You should then see something like this:</p>
+<p>If it says that the authenticity of github.com can’t be established, just say <code class="language-plaintext highlighter-rouge">yes</code> anyways. You should then see something like this:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hi dingledow! You've successfully authenticated, but GitHub does not provide shell access.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hi dingledow! You've successfully authenticated, but GitHub does not provide shell access.
 </code></pre></div></div>
 
 <p>####In Summary…</p>
 
-<p>The best way to think of SSH keys is using the metaphor of a key and a lock, where <code class="highlighter-rouge">id_rsa.pub</code> is your public lock and <code class="highlighter-rouge">id_rsa</code> is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.</p>
+<p>The best way to think of SSH keys is using the metaphor of a key and a lock, where <code class="language-plaintext highlighter-rouge">id_rsa.pub</code> is your public lock and <code class="language-plaintext highlighter-rouge">id_rsa</code> is your private key. You can give your lock to any number of services – GitHub in this case – because it’s public, but only you have the key to unlock it.</p>
 
 <p>###6. Creating the website</p>
 
@@ -225,12 +225,12 @@ The key fingerprint is:
 
 <p>Open a new terminal window and run the command:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Sites/
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd Sites/
 </code></pre></div></div>
 
 <p>The easiest way I find to set up the local version of the repo is to clone it. To do this, enter the command below, but remember to replace dingledow with your GitHub username. Also, check that the repo name is correct:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git@github.com:dingledow/Hello-World.git
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git@github.com:dingledow/Hello-World.git
 </code></pre></div></div>
 
 <p>It will say that you’ve cloned an empty repository, but you’ll still find a directory called “Hello-World” in your Sites directory.</p>
